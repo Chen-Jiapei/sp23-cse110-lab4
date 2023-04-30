@@ -4,3 +4,4 @@ The bug is the "printSum" function gives the "calculateSum" function two strings
 
 Question 2:
 
+I would turn the input strings into numbers so that we can add the inputs up numerically.
